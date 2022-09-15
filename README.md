@@ -37,4 +37,4 @@ To host on Heroku, these are needed as prerequisite:
 
 <br />
 
-After that, follow the steps in [Official Documentation] (https://devcenter.heroku.com/articles/git) for Heroku to deploy with Git and it will handle the rest of the deployments.
+After that, follow the steps in [Official Documentation](https://devcenter.heroku.com/articles/git) for Heroku to deploy with Git and it will handle the rest of the deployments.
